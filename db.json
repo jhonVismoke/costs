@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Home-office projetos",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1200,
+      "services": [
+        {
+          "name": "Trabalho de design HOME-OFFICE",
+          "cost": "1200",
+          "description": "Procura-se home-office com habilidades de design",
+          "id": "17f04d0a-f321-4e22-a737-4bf308ad4654"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "transformers",
+      "budget": "247.50",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

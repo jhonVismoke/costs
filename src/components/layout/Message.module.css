@@ -1,0 +1,22 @@
+.message{
+    width: 100%;
+    padding: 1em;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+    border-bottom: 4em;
+    border-radius: 5px;
+}
+
+.success{
+    text-shadow: 1px 1px 5px black;
+    color: rgb(255, 255, 255);
+    background-color: rgb(142, 255, 142);
+    border-color: rgb(185, 255, 185);
+}
+
+.error{
+    color: red;
+    background-color: rgb(255, 132, 132);
+    border-color: rgb(255, 184, 184);
+}

@@ -1,0 +1,41 @@
+.footer{
+    background-color: rgb(24, 23, 23);
+    color: white;
+    padding: 3em;
+    text-align: center;
+}
+
+.social_list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.social_list li{
+    margin: 0 3em;
+    cursor: pointer;
+}
+.facebook > svg{ transition: 0.5s;}
+.instagram > svg{ transition: 0.5s;}
+.linkedin > svg{ transition: 0.5s;}
+
+.social_list .facebook:hover{
+    color: rgb(0, 60, 255);
+}
+
+.social_list .instagram:hover{
+    color: rgb(255, 0, 64);
+}
+
+.social_list .linkedin:hover{
+    color: rgb(0, 102, 255);
+}
+
+.copy_right{
+    margin-top: 2em;
+}
+
+.copy_right span{
+    font-weight: bold;
+    color: yellow;
+}
